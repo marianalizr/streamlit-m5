@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title('Streamlit - Search names')
+st.title('Streamlit - Search names version 1.0')
 DATA_URL = 'dataset.csv'
 
 @st.cache
